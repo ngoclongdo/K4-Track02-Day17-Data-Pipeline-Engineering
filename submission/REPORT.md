@@ -2,7 +2,7 @@
 
 **Họ tên / MSSV:** Đỗ Nguyễn Ngọc Long / 2A202602390
 **Repo:** `K4-Track02-Day17-DoNguyenNgocLong-2A202602390-DataPipelineEngineering`
-**Commit bài nộp:** `abcd123` (placeholder)
+**Commit bài nộp:** `efd463d3f0e09124a9315e1c37dced3aa8d2afc2`
 **AI đã dùng và phạm vi hỗ trợ:** Gemini CLI (hỗ trợ phân tích kiến trúc, hướng dẫn triển khai CDC/Lookback/dbt và viết test)
 **Nguồn tham khảo khác:** Tài liệu Debezium CDC, DuckDB documentation, dbt-duckdb adapter docs.
 
