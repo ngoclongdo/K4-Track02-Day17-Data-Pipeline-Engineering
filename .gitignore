@@ -1,4 +1,5 @@
 .venv*/
+venv/
 __pycache__/
 *.pyc
 .pytest_cache/
@@ -22,3 +23,5 @@ docker/dags/lake/
 logs/
 
 .env
+
+CONTEXT.md
